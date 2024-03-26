@@ -6,7 +6,7 @@ export default function Footer() {
       Created by{" "}
       <Link
         className={"text-primary-main"}
-        href={"https://www.mejaz.in"}
+        href={"https://https://github.com/saalim24/NextRead"}
         target={"_blank"}
         rel={"noopener noreferrer"}
       >
